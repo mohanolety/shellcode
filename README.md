@@ -1,2 +1,3 @@
-# shellcode
-this is my first shellcode
+#!/bin/bash
+echo "hello bangalore"
+end
